@@ -1,0 +1,23 @@
+{
+  "name": "f-nintd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^4.8.1",
+    "dotenv": "^16.0.0",
+    "gm": "^1.23.1",
+    "koa": "^2.13.4",
+    "koa-session": "^6.2.0",
+    "nunjucks": "^3.2.3",
+    "sequelize": "^6.17.0",
+    "sequelize-cli": "^6.4.1",
+    "uuid": "^8.3.2"
+  }
+}
